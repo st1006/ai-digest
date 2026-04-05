@@ -41,6 +41,11 @@ source: 'https://example.com/original-article'
 
 Текст статьи. 300–500 слов.
 ```
+##Content Style
+-Тон: разговорный, первое лицо множественного числа.
+-Без маркетинговых фраз и оценочных суждений.
+-Без эмодзи.
+-Максимум 300 слов на статью.
 
 Обязательные поля: `title`, `description`, `pubDate`. Опциональные: `updatedDate`, `heroImage`, `source`, `tags`.
 
