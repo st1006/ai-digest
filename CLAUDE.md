@@ -8,8 +8,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Проект в стадии начального шаблона и будет развиваться по ступеням курса. Тестов и линтеров нет, добавятся на следующих ступенях.
 
-**При создании статей** — читай `EDITORIAL.md` в корне проекта (целевая аудитория, тематика, стиль, объём).
-
 ## Commands
 
 ```bash
@@ -49,3 +47,12 @@ source: 'https://example.com/original-article'
 ## Key Conventions
 
 - TypeScript strict mode (`astro/tsconfigs/strict` + `strictNullChecks`)
+
+##
+Git Conventions
+-Commits: Conventional Commits format.
+-Types: feat, fix, docs, refactor, test, chore.
+-Format: type(scope): description.
+-Max subject line: 72 characters.
+-Branch naming: type/short-description.
+-PRs: always target "develop" (или "main", в зависимости от проекта).
