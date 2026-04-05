@@ -1,4 +1,4 @@
-# Промпт: обзор руководства CMIT Solutions по zero-trust AI governance
+# Промпт: обзор отчёта N-able и Futurum Group об ИИ-угрозах для SMB
 
 ## Контекст
 
@@ -6,7 +6,9 @@
 
 ## Задача
 
-Напиши обзор руководства CMIT Solutions по zero-trust AI governance для SMB. Ключевой тезис: каждый ИИ-инструмент, который использует компания — это потенциальная точка атаки, утечки данных или сбоя комплаенса. Источник: CMIT Solutions Zero-Trust AI Governance Guide (февраль 2026).
+Напиши обзор отчёта N-able и The Futurum Group «Cybersecurity in the Age of AI: Moving from Fragile to Resilient» (февраль 2026). Ключевой тезис: ИИ одновременно усиливает киберугрозы (фишинг, shadow AI) и предоставляет новые средства защиты. 62% компаний среднего рынка отмечают рост ИИ-ориентированных атак. Отчёт предлагает модель устойчивости из трёх этапов: до, во время и после атаки.
+
+Источник: https://www.commsbusiness.co.uk/content/news/ai-driven-automation-increasing-threats-for-smbs
 
 ## Формат
 
